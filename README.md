@@ -26,7 +26,7 @@
 
 ---
 
-# 🇬🇧 English
+# English
 
 ### 👨‍💻 About Me
 
@@ -63,7 +63,7 @@
 
 ---
 
-# 🇪🇸 Español
+# Español
 
 ### 👨‍💻 Sobre Mí
 
