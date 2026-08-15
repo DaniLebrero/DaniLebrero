@@ -6,12 +6,8 @@
 
   <!-- BANNER / TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Lebrero+Carcela;Cybersecurity+Professional;Computer+Engineer+%7C+Univ.+de+Sevilla;N1+Support+%26+Systems+Technician" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Lebrero+Carcela;Aspiring+Cybersecurity+Professional;Computer+Engineer+%7C+Univ.+de+Sevilla;N1+Support+%26+Systems+Technician" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <b>Estudiante de Ingeniería Informática | Especializándome en Ciberseguridad, Redes y Administración de Sistemas</b>
-  </p>
 
   <!-- BADGES DE CONTACTO / REDES -->
   <p align="center">
@@ -30,15 +26,52 @@
 
 ---
 
-### 👨‍💻 Sobre Mí / About Me
+# 🇬🇧 English
+
+### 👨‍💻 About Me
+
+- 💼 **Current Role:** Tier 1 / L1 Support Technician & Systems Management at **IaaS365**.
+- 🎓 **Education:** B.S. in **Computer Engineering** at the **University of Seville** *(2022 – 2026)*.
+- 🎯 **Core Focus:** Risk assessment, network security, physical security, and IT infrastructure administration.
+- 📜 **Certifications:** Certified by **Cisco** in *Cybersecurity*, *Artificial Intelligence*, and *Internet of Things (IoT)*.
+- 🚀 **Mission:** Committed to continuous learning, research, and delivering value in cybersecurity, automation, and tech innovation projects.
+
+### 🛡️ Areas of Expertise & Interest
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🔒 Cybersecurity & Networking</h4>
+      <ul>
+        <li>Risk assessment and management</li>
+        <li>Perimeter defense and network security</li>
+        <li>Physical security and access control</li>
+        <li>Monitoring and incident response</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🖥️ Systems & IT Operations</h4>
+      <ul>
+        <li>Tier 1 technical support and issue resolution</li>
+        <li>Systems administration across IaaS/Cloud environments</li>
+        <li>Infrastructure deployment and maintenance</li>
+        <li>AI & IoT fundamentals applied to security</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🇪🇸 Español
+
+### 👨‍💻 Sobre Mí
 
 - 💼 **Posición actual:** Técnico de Soporte N1 y Gestión de Sistemas en **IaaS365**.
 - 🎓 **Formación:** Grado en **Ingeniería Informática** en la **Universidad de Sevilla** *(2022 – 2026)*.
 - 🎯 **Enfoque profesional:** Evaluación de riesgos, seguridad de redes, seguridad física y administración de infraestructuras TI.
 - 📜 **Certificaciones:** Certificado por **Cisco** en *Cybersecurity*, *Artificial Intelligence* e *Internet of Things (IoT)*.
 - 🚀 **Objetivo:** Continuar formándome, investigando y aportando valor en proyectos de ciberseguridad, automatización e innovación tecnológica.
-
----
 
 ### 🛡️ Áreas de Especialización & Interés
 
@@ -67,11 +100,11 @@
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-  <!-- Lenguajes -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -79,7 +112,7 @@
 
   <br/>
 
-  <!-- Sistemas y Redes -->
+  <!-- Systems & Networking -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
@@ -90,13 +123,15 @@
 
 ---
 
-### 📬 Conectemos / Get in Touch
+### 📬 Get in Touch / Conectemos
 
 <div align="center">
 
-¿Te interesa colaborar en proyectos de seguridad, sistemas o desarrollo de software?  
-¡No dudes en contactarme!
+Interested in collaborating on security, systems, or software projects? Feel free to reach out!  
+*¿Te interesa colaborar en proyectos de seguridad, sistemas o desarrollo de software? ¡No dudes en contactarme!*
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellebrerocarcela/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellebrerocarcela/)
 
 </div>
