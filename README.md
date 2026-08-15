@@ -6,7 +6,7 @@
 
   <!-- BANNER / TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Lebrero+Carcela;Aspiring+Cybersecurity+Professional;Computer+Engineer+%7C+Univ.+de+Sevilla;N1+Support+%26+Systems+Technician" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Lebrero+Carcela;Cybersecurity+Professional;Computer+Engineer+%7C+Univ.+de+Sevilla;N1+Support+%26+Systems+Technician" alt="Typing SVG" />
   </a>
 
   <!-- BADGES DE CONTACTO / REDES -->
