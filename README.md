@@ -4,7 +4,7 @@
 
 [Portfolio](https://danilebrero.github.io/daniel-lebrero-portfolio/) · [LinkedIn](https://www.linkedin.com/in/daniellebrerocarcela/) · [Contacto](mailto:daniellebrerocarcela@gmail.com)
 
-![Daniel Lebrero Carcela: sistemas, cloud y ciberseguridad aplicada](banner.svg)
+![Daniel Lebrero Carcela - Systems Technician](banner.png)
 
 [Español](#español) · [English](#english)
 
