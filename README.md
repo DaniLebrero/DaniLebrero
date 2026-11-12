@@ -1,145 +1,87 @@
-<p align="center">
-  <img src="banner.png" alt="Daniel Lebrero Carcela - Systems Technician" width="100%">
-</p>
+# Daniel Lebrero Carcela
 
-<div align="center">
+**Sistemas, cloud y ciberseguridad aplicada · Systems, cloud & applied cybersecurity**
 
-  <!-- BANNER / TYPING HEADER -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Lebrero+Carcela;Cybersecurity+Professional;Computer+Engineer+%7C+Univ.+de+Sevilla;N1+Support+%26+Systems+Technician" alt="Typing SVG" />
-  </a>
+[Portfolio](https://danilebrero.github.io/daniel-lebrero-portfolio/) · [LinkedIn](https://www.linkedin.com/in/daniellebrerocarcela/) · [Contacto](mailto:daniellebrerocarcela@gmail.com)
 
-  <!-- BADGES DE CONTACTO / REDES -->
-  <p align="center">
-    <a href="https://danilebrero.github.io/daniel-lebrero-portfolio/#proyectos" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/daniellebrerocarcela/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:daniellebrerocarcela@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/danilebrero">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+![Daniel Lebrero Carcela: sistemas, cloud y ciberseguridad aplicada](banner.svg)
 
-</div>
+[Español](#español) · [English](#english)
 
----
+## Español
 
-# English
+Trabajo en sistemas y soporte, desarrollo aplicaciones web y practico seguridad e infraestructura en mi laboratorio: construir, proteger y operar son partes del mismo trabajo.
 
-### 👨‍💻 About Me
+### Experiencia
 
-- 💼 **Current Role:** Tier 1 / L1 Support Technician & Systems Management at **IaaS365**.
-- 🎓 **Education:** B.S. in **Computer Engineering** at the **University of Seville** *(2022 – 2026)*.
-- 🎯 **Core Focus:** Risk assessment, network security, physical security, and IT infrastructure administration.
-- 📜 **Certifications:** Certified by **Cisco** in *Cybersecurity*, *Artificial Intelligence*, and *Internet of Things (IoT)*.
-- 🚀 **Mission:** Committed to continuous learning, research, and delivering value in cybersecurity, automation, and tech innovation projects.
+- **Soporte N1 y gestión de sistemas — IaaS365.** Gestión de accesos, permisos e incidencias con Entra ID y SharePoint.
 
-### 🛡️ Areas of Expertise & Interest
+### Proyectos y resultados
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔒 Cybersecurity & Networking</h4>
-      <ul>
-        <li>Risk assessment and management</li>
-        <li>Perimeter defense and network security</li>
-        <li>Physical security and access control</li>
-        <li>Monitoring and incident response</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🖥️ Systems & IT Operations</h4>
-      <ul>
-        <li>Tier 1 technical support and issue resolution</li>
-        <li>Systems administration across IaaS/Cloud environments</li>
-        <li>Infrastructure deployment and maintenance</li>
-        <li>AI & IoT fundamentals applied to security</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Proyecto | Mi aportación y resultado | Evidencia |
+| --- | --- | --- |
+| **Top & Performance** | Desarrollo de una web de entrenamiento y nutrición, despliegue en Cloudflare Pages, DNS y SEO técnico. Canonical, sitemap, datos estructurados, AVIF y Open Graph. | [Web publicada](https://topandperformance.com/) · [Proceso y aprendizajes](https://es.linkedin.com/posts/daniellebrerocarcela_entrenamiento-personal-y-nutrici%C3%B3n-online-activity-7502451813326127104-26ju) |
+| **BigShop · TFM de ciberseguridad** | Auditoría de caja gris en laboratorio sobre cuatro servicios web: **28 vulnerabilidades**, **3 críticas** e informe de **97 páginas** con puntuación CVSS. Seleccionado entre los **10 mejores TFM** de la primera edición de BIG school. | [Resultados y reconocimiento](https://es.linkedin.com/posts/daniellebrerocarcela_ciberseguridad-bigschool-top10-activity-7524202646979772418-u8uV) |
+| **Homelab** | Configuración y operación de infraestructura propia con Docker: redes, persistencia, comprobaciones de salud y acceso privado. **51 contenedores en ejecución** en la revisión del **12 de noviembre de 2026**: 18 de entornos locales de Supabase y 33 del resto de servicios. | [Arquitectura y servicios](https://danilebrero.github.io/daniel-lebrero-portfolio/#laboratorio) |
 
----
+La cifra del homelab es una instantánea comprobada con Docker. Cuenta contenedores, incluidos entornos de pruebas y componentes auxiliares como bases de datos y proxies; no equivale a 51 aplicaciones independientes ni a un estado en tiempo real.
 
-# Español
+Otros proyectos del portfolio: **yt-dlp Web** (Flask, autenticación, CSRF y SSRF), **Codeshare Local** (colaboración por WebSockets en red local) y **Lebre Services** (consulta de servicios con Docker API y Socket Proxy).
 
-### 👨‍💻 Sobre Mí
+### Certificaciones
 
-- 💼 **Posición actual:** Técnico de Soporte N1 y Gestión de Sistemas en **IaaS365**.
-- 🎓 **Formación:** Grado en **Ingeniería Informática** en la **Universidad de Sevilla** *(2022 – 2026)*.
-- 🎯 **Enfoque profesional:** Evaluación de riesgos, seguridad de redes, seguridad física y administración de infraestructuras TI.
-- 📜 **Certificaciones:** Certificado por **Cisco** en *Cybersecurity*, *Artificial Intelligence* e *Internet of Things (IoT)*.
-- 🚀 **Objetivo:** Continuar formándome, investigando y aportando valor en proyectos de ciberseguridad, automatización e innovación tecnológica.
+- **Microsoft Certified: Azure Fundamentals — AZ-900 aprobado.** [Publicación del logro](https://es.linkedin.com/posts/daniellebrerocarcela_azure-microsoftcertified-az900-activity-7517664563023151104-h9QU).
+- Cursos de Cisco en redes, soporte, seguridad de endpoints, fundamentos de ciberseguridad, IA e IoT. [Detalle de credenciales](https://danilebrero.github.io/daniel-lebrero-portfolio/#certificaciones).
 
-### 🛡️ Áreas de Especialización & Interés
+### Formación
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔒 Ciberseguridad & Redes</h4>
-      <ul>
-        <li>Evaluación y gestión de riesgos</li>
-        <li>Seguridad perimetral y seguridad de redes</li>
-        <li>Seguridad física y control de accesos</li>
-        <li>Monitorización y respuesta ante incidentes</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🖥️ Sistemas & Operaciones TI</h4>
-      <ul>
-        <li>Soporte técnico N1 y resolución de incidencias</li>
-        <li>Administración de sistemas y entornos IaaS/Cloud</li>
-        <li>Mantenimiento y despliegue de infraestructuras</li>
-        <li>Fundamentos de IA & IoT aplicados a seguridad</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Máster en Ciberseguridad — BIG school.** TFM realizado y seleccionado entre los diez mejores de la primera edición.
+- Formación en **Ingeniería Informática — Universidad de Sevilla**.
 
----
+### Herramientas con contexto
 
-### 🛠️ Tech Stack & Tools
+- **Soporte y cloud:** Entra ID, SharePoint y fundamentos de Azure.
+- **Desarrollo:** Python, Flask, JavaScript, Node.js, WebSockets y SQL.
+- **Laboratorio:** Linux, Docker, Nginx, PostgreSQL, WireGuard, Pi-hole, Uptime Kuma y Node Exporter.
+- **Web publicada:** Cloudflare Pages, DNS, SEO técnico y Open Graph.
+- **Seguridad aplicada:** autenticación, control de accesos, análisis de vulnerabilidades y documentación de impacto.
 
-<div align="center">
+## English
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+I work in systems and support, build web applications, and practise security and infrastructure in my own lab: building, securing and operating software are parts of the same job.
 
-  <br/>
+### Experience
 
-  <!-- Systems & Networking -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+- **Tier 1 support and systems management — IaaS365.** Managing access, permissions and incidents with Entra ID and SharePoint.
 
-</div>
+### Projects and results
 
----
+| Project | My contribution and outcome | Evidence |
+| --- | --- | --- |
+| **Top & Performance** | Built a training and nutrition website, deployed it on Cloudflare Pages, configured DNS and technical SEO. Implemented canonical URLs, sitemap, structured data, AVIF and Open Graph. | [Live website](https://topandperformance.com/) · [Process and lessons, in Spanish](https://es.linkedin.com/posts/daniellebrerocarcela_entrenamiento-personal-y-nutrici%C3%B3n-online-activity-7502451813326127104-26ju) |
+| **BigShop · Cybersecurity final project** | Grey-box audit of four web services in a lab: **28 vulnerabilities**, including **3 critical findings**, documented in a **97-page report** with CVSS scores. Selected among the **10 best final projects** in the first BIG school cohort. | [Results and recognition, in Spanish](https://es.linkedin.com/posts/daniellebrerocarcela_ciberseguridad-bigschool-top10-activity-7524202646979772418-u8uV) |
+| **Homelab** | Configured and operate Docker infrastructure: networks, persistence, health checks and private access. **51 running containers** checked on **12 November 2026**: 18 from local Supabase environments and 33 from all other services. | [Architecture and services](https://danilebrero.github.io/daniel-lebrero-portfolio/#laboratorio) |
 
-### 📬 Get in Touch / Conectemos
+The homelab count is a Docker snapshot. It counts containers, including test environments and supporting components such as databases and proxies; it does not mean 51 independent applications or a live status feed.
 
-<div align="center">
+Other portfolio projects: **yt-dlp Web** (Flask, authentication, CSRF and SSRF), **Codeshare Local** (WebSocket collaboration on the local network) and **Lebre Services** (service visibility through Docker API and Socket Proxy).
 
-Interested in collaborating on security, systems, or software projects? Feel free to reach out!  
-*¿Te interesa colaborar en proyectos de seguridad, sistemas o desarrollo de software? ¡No dudes en contactarme!*
+### Certifications
 
-<br/>
+- **Microsoft Certified: Azure Fundamentals — passed AZ-900.** [Achievement post, in Spanish](https://es.linkedin.com/posts/daniellebrerocarcela_azure-microsoftcertified-az900-activity-7517664563023151104-h9QU).
+- Cisco courses covering networking, support, endpoint security, cybersecurity fundamentals, AI and IoT. [Credential details](https://danilebrero.github.io/daniel-lebrero-portfolio/#certificaciones).
 
-<a href="https://danilebrero.github.io/daniel-lebrero-portfolio/#proyectos" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Proyectos_/_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/daniellebrerocarcela/" target="_blank">
-  <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+### Education
 
-</div>
+- **Cybersecurity Master's programme — BIG school.** Completed the final project, selected among the ten best in the first cohort.
+- Studies in **Computer Engineering — University of Seville**.
+
+### Tools in practice
+
+- **Support and cloud:** Entra ID, SharePoint and Azure fundamentals.
+- **Development:** Python, Flask, JavaScript, Node.js, WebSockets and SQL.
+- **Lab:** Linux, Docker, Nginx, PostgreSQL, WireGuard, Pi-hole, Uptime Kuma and Node Exporter.
+- **Published website:** Cloudflare Pages, DNS, technical SEO and Open Graph.
+- **Applied security:** authentication, access control, vulnerability analysis and impact documentation.
+
+[Explorar proyectos / Explore projects](https://danilebrero.github.io/daniel-lebrero-portfolio/#proyectos)
