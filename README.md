@@ -2,9 +2,14 @@
 
 **Sistemas, cloud y ciberseguridad aplicada · Systems, cloud & applied cybersecurity**
 
-[Portfolio](https://danilebrero.github.io/daniel-lebrero-portfolio/) · [LinkedIn](https://www.linkedin.com/in/daniellebrerocarcela/) · [Contacto](mailto:daniellebrerocarcela@gmail.com)
+![Daniel Lebrero Carcela: sistemas, cloud y ciberseguridad aplicada](banner.svg)
 
-![Daniel Lebrero Carcela - Systems Technician](banner.png)
+<p align="center">
+  <a href="https://danilebrero.github.io/daniel-lebrero-portfolio/"><img src="https://img.shields.io/badge/Portfolio-b8ef58?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=17200d" alt="Visitar portfolio"></a>
+  <a href="https://www.linkedin.com/in/daniellebrerocarcela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Conectar en LinkedIn"></a>
+  <a href="mailto:daniellebrerocarcela@gmail.com"><img src="https://img.shields.io/badge/Contacto-181c16?style=for-the-badge&amp;logo=gmail&amp;logoColor=b8ef58" alt="Enviar un correo a Daniel"></a>
+  <a href="https://github.com/DaniLebrero"><img src="https://img.shields.io/badge/GitHub-181c16?style=for-the-badge&amp;logo=github&amp;logoColor=b8ef58" alt="Ver repositorios de GitHub"></a>
+</p>
 
 [Español](#español) · [English](#english)
 
@@ -84,4 +89,6 @@ Other portfolio projects: **yt-dlp Web** (Flask, authentication, CSRF and SSRF),
 - **Published website:** Cloudflare Pages, DNS, technical SEO and Open Graph.
 - **Applied security:** authentication, access control, vulnerability analysis and impact documentation.
 
-[Explorar proyectos / Explore projects](https://danilebrero.github.io/daniel-lebrero-portfolio/#proyectos)
+<p align="center">
+  <a href="https://danilebrero.github.io/daniel-lebrero-portfolio/#proyectos"><img src="https://img.shields.io/badge/Explorar_proyectos_%2F_Explore_projects-b8ef58?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=17200d" alt="Explorar proyectos / Explore projects"></a>
+</p>
